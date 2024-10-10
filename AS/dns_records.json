@@ -1,0 +1,7 @@
+{
+  "fibonacci.com": {
+    "TYPE": "A",
+    "VALUE": "127.0.0.1",
+    "TTL": "10"
+  }
+}
